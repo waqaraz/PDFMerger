@@ -1,5 +1,5 @@
 {
-    "name": "myokyawhtun/pdfmerger",
+    "name": "waqaraz/pdfmerger",
     "description": "PDFMerger for PHP (PHP 5 and up to PHP 7.1 Compatible)",
     "authors": [
     	{
@@ -13,6 +13,10 @@
     	{
     		"name":"Myo Kyaw Htun",
     		"email":"myochauhtun@gmail.com"
+    	},
+    	{
+    		"name":"Waqar Aziz",
+    		"email":"waqar@appifytech.com"
     	}
     ],
     "require":{
